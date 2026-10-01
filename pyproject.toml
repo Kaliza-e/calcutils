@@ -19,4 +19,4 @@ requires-python = ">=3.8"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/Kaliza-e/calcutils"
+Homepage = "https://github.com/Kaliza-e/calcutils.git"
